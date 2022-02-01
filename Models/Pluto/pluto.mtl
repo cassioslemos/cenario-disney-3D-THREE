@@ -1,0 +1,39 @@
+newmtl Modeleyeshine_Material001
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Pluto_Eyeshine_D.png
+
+newmtl Modelbody_Material002
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Pluto_Body_D.png
+map_Ks Pluto_Body_S.png
+
+newmtl Modeleye_Material003
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Pluto_Eye_D.png
+map_Ks Pluto_Eye_S.png
+
+newmtl Modelhead_Material004
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Pluto_Head_D.png
+map_Ks Pluto_Head_S.png
+

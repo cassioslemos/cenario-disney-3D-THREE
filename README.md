@@ -28,67 +28,67 @@ F
 
 ### Agrabah (baseado no filme "Aladdin")
 
-Aladdin
-Jasmim
-Rajah
-Gênio
-Jafar
-Caverna das Maravilhas
+Aladdin <br />
+Jasmim <br />
+Rajah <br />
+Gênio <br />
+Jafar <br />
+Caverna das Maravilhas 
 
 ### Montanha Pelada (baseado no segmento "Uma Noite na Montanha Pelada" do filme "Fantasia")
 
-Chernabog
-Fantasma comum
-Fantasma encapuzado
-Fastasma com espadas
+Chernabog <br />
+Fantasma comum <br />
+Fantasma encapuzado <br />
+Fastasma com espadas 
 
 ### Terra Indígena (baseado no filme "Pocahontas")
 
-Pocahontas
+Pocahontas 
 
 ### País das Maravilhas (baseado no filme "Alice no País das Maravilhas")
 
-Alice 
-Rainhas de Copas
-Rei de Copas
-Mestre Gato
-Coelho Branco
+Alice <br />
+Rainhas de Copas <br />
+Rei de Copas <br />
+Mestre Gato <br />
+Coelho Branco 
 
 ### Casa do Mickey (baseado na série "A Casa de Mickey Mouse")
 
-Mickey
-Minnie
-Donald
-Margarida
-Pateta
-Pluto
+Mickey <br />
+Minnie <br />
+Donald <br />
+Margarida <br />
+Pateta <br />
+Pluto 
 
 ### Halloween Town (baseaso no filme "O Estranho Mundo de Jack")
 
-Jack Skellington
-Sally
-Zero
-Monstro Verde
+Jack Skellington <br />
+Sally <br />
+Zero <br />
+Monstro Verde 
 
 ### Castelo dos Sonhos (baseado no filme "Cinderela")
 
-Cinderella
+Cinderella 
 
 ### Dominação Encantada (baseado no filme "A Bela Adormecida")
 
-Aurora
-Flora
-Fauna
-Primaversa
+Aurora <br />
+Flora <br />
+Fauna <br />
+Primavera
 
 ### Kokaua (baseado no filme "Lilo e Stitch" e na série "Lilo e Stitch: A Série")
 
-Lilo
-Stitch
-Anjinha
-Jumba
-Pleakley
-Gantu
-Cobra Bubbles
-Nani
+Lilo <br />
+Stitch <br />
+Anjinha <br />
+Jumba <br />
+Pleakley <br />
+Gantu <br />
+Cobra Bubbles <br />
+Nani 
 
